@@ -18,6 +18,9 @@ html {
 body {
     margin: 0;
 }
+.node-news .content{
+	background-color: #fff;
+}
 a {
     background: transparent none repeat scroll 0 0;
 }
